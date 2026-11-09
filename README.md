@@ -42,6 +42,6 @@ Currently Learning
 
 🤝 Connect with Me!
 
-- Resume: [View My Resume](resume.pdf)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/linh-ta-tcu)
+- [My Resume](resume.pdf)
+- [My LinkedIn](https://www.linkedin.com/in/linh-ta-tcu)
 
